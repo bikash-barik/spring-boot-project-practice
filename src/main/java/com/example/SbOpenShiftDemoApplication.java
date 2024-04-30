@@ -12,7 +12,7 @@ public class SbOpenShiftDemoApplication {
 
 	@GetMapping("/")
 	public String welcome() {
-		return "Welcome to Badal's World.!!";
+		return "Welcome to Centroxy's World.!!";
 	}
 
 	@GetMapping("/{name}")
